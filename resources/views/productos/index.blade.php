@@ -2,7 +2,7 @@
 
 @section('content')
 <div style="padding: 20px;">
-    <h2>Lista de Productos</h2>
+    <h2>Lista de productos</h2>
     
     <table>
         <thead>
