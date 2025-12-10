@@ -10,4 +10,4 @@ Este proyecto es una aplicación web desarrollada en PHP con el framework Larave
 * CSS
 
 ## Instalación
-Instrucciones breves de cómo correr el proyecto.
+Descarga el proyecto completo, ejecuta el servidor en el puerto 8000 asi como XAMPP.
